@@ -11,24 +11,28 @@ body{
     margin-inline: auto;
     
 }
+.section{
+    margin-top: 50px;
+}
 .section_1{
     display: flex;
     justify-content: center;
     text-align: center;
+    margin-bottom: 30px;
 }
 .section_card{
     display: flex;
     justify-content: center;
-    gap: 8rem;
+    gap: 4rem;
 }
 .card_1 h3{
-    font-size: 1.5vw;
+    font-size: 2rem;
     font-weight: 400;
     padding-top: 10px;
     display: flex;
     justify-content: space-between;
 }
 .card_1 h4{
-    font-size: 1.5vw;
+    font-size: 2rem;
     padding-top: 15px;
 }
